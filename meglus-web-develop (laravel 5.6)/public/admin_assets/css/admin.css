@@ -1,0 +1,93 @@
+body .admin-wrapper #content-wrapper .container {
+  padding-top: 70px;
+}
+
+body .admin-wrapper #content-wrapper .container .content .box-info {
+  padding: 10px;
+}
+
+body .admin-wrapper #content-wrapper .container .content .box-info .container {
+  padding-top: 15px;
+}
+
+body .admin-wrapper #content-wrapper .container #table-otp.table {
+  border: 1px solid white;
+  background: rgba(56, 193, 114, 0.05);
+}
+
+body .admin-wrapper #content-wrapper .container #table-otp.table tr th {
+  background: #38aec1;
+  color: white;
+  border-color: white;
+}
+
+body .admin-wrapper #content-wrapper .container #table-otp.table tr th a {
+  color: white;
+}
+
+body .admin-wrapper #content-wrapper .container #table-otp.table tr th a .sort {
+  margin-left: 5px;
+}
+
+body .admin-wrapper #content-wrapper .container #table-otp.table tr td {
+  border-color: white;
+  padding-left: 10px;
+}
+
+body .admin-wrapper #content-wrapper .container .table-job-compare {
+  border: 1px solid white;
+  background: rgba(56, 193, 114, 0.05);
+}
+
+body .admin-wrapper #content-wrapper .container .table-job-compare tr th {
+  background: #38aec1;
+  color: white;
+  border-color: white;
+}
+
+body .admin-wrapper #content-wrapper .container .table-job-compare tr td {
+  border-color: white;
+  padding-left: 10px;
+}
+
+body .admin-wrapper #content-wrapper .container .admin-table tr th {
+  padding: 5px !important;
+}
+
+body .admin-wrapper #content-wrapper .container .admin-table tr th a {
+  float: left;
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+}
+
+body .admin-wrapper #content-wrapper .container .admin-table tr td {
+  padding: 5px !important;
+}
+
+body .error-mesages-right {
+  background: #FF9C00;
+  position: fixed;
+  right: 0px;
+  height: auto;
+  padding: 10px;
+  font-size: 13px;
+  line-height: 17px;
+  text-align: center;
+  border-radius: 5px 0px 0px 5px;
+  color: #fff;
+  z-index: 100;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: calc(100% - 200px);
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .container {
+    max-width: calc(100% - 50px);
+  }
+}
+

@@ -1,0 +1,92 @@
+// Variables
+@import 'variables';
+
+.user-register-content{
+    .container{
+        input[type="text"],input[type="email"],input[type="password"]{
+            background-color: #dae3f3;
+        }
+    }
+
+}
+
+.user-registed-modal{
+
+    .modal-header{
+        padding: 15px 15px 0px 15px;
+        border-bottom: 0px;
+    }
+    .modal-body{
+        padding-top: 0px;
+        h5.modal-title{
+            font-weight: bold;
+            font-size: 22px;
+            padding-bottom: 20px;
+        }
+        p{
+            margin-bottom: 5px;
+            a{
+                color: $blue;
+            }
+        }
+    }
+
+}
+.apply_default_popup{
+    .modal-body{
+        .form-group-list{
+            max-height: 200px;
+            overflow-x: auto;
+        }
+    }
+}
+#table-job-list{
+    tr th{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+    body .control-label.required:after{
+        float: unset;
+        padding-left: 5px;
+    }
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+    header{
+        padding: 0px 10px;
+    }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px){
+    header .container-fluid{
+        padding-right: 0px;
+        ul.navbar-nav{
+            li.nav-item.bg_blue:last-child{
+                padding-right: 0px;
+            }
+        }
+    }
+
+    .user-register-content #user_register_form{
+        .form-group{
+            label.control-label{
+                padding-left: 50px;
+                font-size: 20px;
+            }
+        }
+    }
+
+}
+
+

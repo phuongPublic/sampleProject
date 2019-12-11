@@ -1,0 +1,67 @@
+.user-register-content .container input[type="text"],
+.user-register-content .container input[type="email"],
+.user-register-content .container input[type="password"] {
+  background-color: #dae3f3;
+}
+
+.user-registed-modal .modal-header {
+  padding: 15px 15px 0px 15px;
+  border-bottom: 0px;
+}
+
+.user-registed-modal .modal-body {
+  padding-top: 0px;
+}
+
+.user-registed-modal .modal-body h5.modal-title {
+  font-weight: bold;
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+
+.user-registed-modal .modal-body p {
+  margin-bottom: 5px;
+}
+
+.user-registed-modal .modal-body p a {
+  color: #3490dc;
+}
+
+.apply_default_popup .modal-body .form-group-list {
+  max-height: 200px;
+  overflow-x: auto;
+}
+
+#table-job-list tr th {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+@media (max-width: 575.98px) {
+  body .control-label.required:after {
+    float: unset;
+    padding-left: 5px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  header {
+    padding: 0px 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  header .container-fluid {
+    padding-right: 0px;
+  }
+
+  header .container-fluid ul.navbar-nav li.nav-item.bg_blue:last-child {
+    padding-right: 0px;
+  }
+
+  .user-register-content #user_register_form .form-group label.control-label {
+    padding-left: 50px;
+    font-size: 20px;
+  }
+}
+

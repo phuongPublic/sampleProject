@@ -1,0 +1,9 @@
+{
+    "/css/app.css": "/css/app.css",
+    "/css/layout.css": "/css/layout.css",
+    "/css/user.css": "/css/user.css",
+    "/css/jobs.css": "/css/jobs.css",
+    "/css/util.css": "/css/util.css",
+    "/css/job-preview.css": "/css/job-preview.css",
+    "/admin_assets/css/admin.css": "/admin_assets/css/admin.css"
+}

@@ -1,0 +1,68 @@
+// Variables
+@import 'variables';
+
+#job_register_form{
+    .box-body{
+        margin-bottom: 40px;
+        div.sub-title{
+            border-bottom: 1px solid #ccc;
+        }
+    }
+
+    .application_method{
+        label p {padding: 0px ;margin: 0px; font-size: 16px; font-weight: bold}
+    }
+
+}
+
+.job-radio-item{
+    border: 2px solid #857776;
+    padding: 0px 10px 0px 10px;
+    background: #dcdcdc;
+    cursor: pointer;
+    label{
+        padding-top: 10px;
+        color: #857776;
+    }
+    input[type="checkbox"]{
+        width: 30px;
+        height: 30px;
+    }
+}
+
+.job-radio-item.selected{
+    border: 2px solid #417b99;
+    background: #84ccc9;
+    label{
+        color: #1d5982;
+    }
+}
+
+// Apply job
+.dropdown-apply{
+    .dropdown-toggle,.dropdown-toggle:hover,
+    .dropdown-toggle:focus,.btn-outline-secondary:not(:disabled):not(.disabled):active{
+        background-color: #fff;
+        color: #000;
+        box-shadow:unset;
+    }
+}
+
+.warning-job {
+    padding: 0px 8px 0px 8px;
+    margin: 0px;
+    position: absolute;
+    right: 10px;
+    background: #f0ad4e;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%
+}
+
+.icon-warning {
+    position: absolute;
+    right: 9px;
+    font-size: 21px;
+    bottom: -2px;
+    color: #fff;
+}

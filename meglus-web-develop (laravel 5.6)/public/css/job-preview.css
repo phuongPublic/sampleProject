@@ -1,0 +1,221 @@
+.job_preview .modal-dialog {
+  width: 420px;
+}
+
+.job_preview .modal-dialog .modal-content {
+  top: 0px;
+  background: url("/img/iphone.png") no-repeat center 30px #fff;
+  background-size: 380px auto;
+}
+
+.job_preview .modal-dialog .modal-content .modal-body {
+  padding: 70px 44px 15px 41px;
+}
+
+.job_preview .modal-header {
+  border-bottom: none;
+  padding-bottom: 0px;
+}
+
+.job_preview .mobile-preview {
+  background: url(/img/bg-preview.png) no-repeat;
+  height: 685px;
+  background-size: 100% auto;
+  padding-top: 60px;
+  padding-right: 15px;
+  font-weight: bold;
+  text-align: left;
+  color: #404040;
+  font-size: 12px;
+}
+
+.job_preview .mobile-preview .form-group {
+  margin: 0px 0px 0px 15px;
+  border-bottom: 1px solid #cdccca;
+}
+
+.job_preview .mobile-preview .form-group .icon-preview {
+  padding-top: 15px;
+}
+
+.job_preview .mobile-preview .form-group .contact-icon {
+  background: url(/img/d_rc_02.png) no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: 50px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon {
+  background: url(/img/d_rc_04.png) no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: 35px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon .jlpt-level {
+  background: url(/img/d_rc_04_01.png) no-repeat;
+  width: 100%;
+  height: 50px;
+  background-size: 60px;
+  background-position: 38px 25px;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon .jlpt-level-N1 {
+  background: url(/img/d_rc_04_01_N1.png) no-repeat;
+  background-size: 60px;
+  background-position: 38px 25px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon .jlpt-level-N2 {
+  background: url(/img/d_rc_04_01_N2.png) no-repeat;
+  background-size: 60px;
+  background-position: 38px 25px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon .jlpt-level-N3 {
+  background: url(/img/d_rc_04_01_N3.png) no-repeat;
+  background-size: 60px;
+  background-position: 38px 25px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon .jlpt-level-N4 {
+  background: url(/img/d_rc_04_01_N4.png) no-repeat;
+  background-size: 60px;
+  background-position: 38px 25px;
+}
+
+.job_preview .mobile-preview .form-group .jlpt_icon .jlpt-level-N5 {
+  background: url(/img/d_rc_04_01_N5.png) no-repeat;
+  background-size: 60px;
+  background-position: 38px 25px;
+}
+
+.job_preview .mobile-preview .form-group .bus_icon {
+  background: url(/img/d_rc_06.png) no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: 35px;
+  padding-left: 40px;
+  overflow: hidden;
+}
+
+.job_preview .mobile-preview .form-group .bus_icon .station-name {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.job_preview .mobile-preview .form-group .day-of-week {
+  font-size: 7px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  padding-top: 8px;
+  color: #fff;
+  line-height: 8px;
+  text-transform: uppercase;
+}
+
+.job_preview .mobile-preview .form-group .day-of-week.active {
+  font-size: 9px;
+  text-align: center;
+  background: #f39b34;
+  border-radius: 50%;
+  width: 29px;
+  height: 29px;
+  padding-top: 9px;
+  color: #fff;
+  line-height: 9px;
+}
+
+.job_preview .mobile-preview .form-group .warning.warning-status {
+  background: url(/img/warning.png) no-repeat left;
+  background-size: 14px 14px;
+  float: right;
+  position: relative;
+  z-index: 666;
+  top: -50px;
+  padding: 0px 6px;
+}
+
+.job_preview .mobile-preview .popup-working-time {
+  display: none;
+  background: #cee1f6;
+  left: 95px;
+  position: absolute;
+  padding: 5px;
+  z-index: 667;
+}
+
+.job_preview .mobile-preview .popup-working-time > div {
+  margin: 0px 10px 10px 20px;
+  padding: 5px;
+  border: 1px solid #13e9f1;
+}
+
+.job_preview .mobile-preview .popup-working-time .working-time-1 .form-inline:before {
+  content: '1';
+  border: 1px solid #4a4a4a;
+  color: #4a4a4a;
+  border-radius: 50%;
+  padding: 1px 5px 1px 5px;
+  font-size: 9px;
+  position: absolute;
+  left: -28px;
+  top: calc(50% + 5px);
+}
+
+.job_preview .mobile-preview .popup-working-time .working-time-2 .form-inline:before {
+  content: '2';
+  border: 1px solid #4a4a4a;
+  color: #4a4a4a;
+  border-radius: 50%;
+  padding: 1px 5px 1px 5px;
+  font-size: 9px;
+  position: absolute;
+  left: -28px;
+  top: calc(50% + 5px);
+}
+
+.job_preview .mobile-preview .popup-working-time .working-time-3 .form-inline:before {
+  content: '3';
+  border: 1px solid #4a4a4a;
+  color: #4a4a4a;
+  border-radius: 50%;
+  padding: 1px 5px 1px 5px;
+  font-size: 9px;
+  position: absolute;
+  left: -28px;
+  top: calc(50% + 5px);
+}
+
+.job_preview .mobile-preview .popup-working-time .day-of-week {
+  background: #999;
+}
+
+.job_preview .mobile-preview .popup-working-time:before {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: -10px;
+  top: 40px;
+  border: 10px solid;
+  border-color: #fff transparent transparent #fff;
+  -webkit-transform: rotate(315deg);
+  transform: rotate(315deg);
+}
+
+.job_preview .mobile-preview .icon-clock {
+  background: url(/img/d_im_01.png) no-repeat;
+  background-size: 17px;
+}
+
+.no-padding {
+  padding: 0px;
+}
+

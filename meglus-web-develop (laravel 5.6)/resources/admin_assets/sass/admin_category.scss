@@ -1,0 +1,102 @@
+.job_category {
+    .category {
+        background: #ecf3f9;
+        margin-bottom: 15px;
+        padding: 10px;
+
+        .category-child-list {
+            margin-bottom: 1px;
+            list-style: none;
+            padding-left: 10px;
+        }
+
+        .category-child {
+            margin-bottom: auto;
+        }
+
+        .input-name-category {
+            display: none;
+            width: 85%;
+        }
+
+        .done-save-name {
+            display: none;
+            font-size: 18px;
+            margin-top: 5px;
+        }
+    }
+
+    .select-lang {
+        text-transform: uppercase;
+    }
+    .custom-file-input.icon-popup.error {
+        margin-left: -197px;
+    }
+    .custom-file-input.icon-popup {
+        margin-left: -220px;
+    }
+
+    .category-name {
+        font-size: 26px;
+        color: #2779aa;
+    }
+
+    .close-category-name {
+        display: none;
+    }
+
+    .delete-category {
+        margin-top: -2px;
+        color: red;
+    }
+
+    [hidden] {
+        display: none !important;
+    }
+
+    .form-upload {
+        margin-top: 10px;
+    }
+
+    .link-underline {
+        text-decoration: underline;
+    }
+
+    .sortable-category {
+        list-style: none;
+    }
+
+    ul {
+        list-style: none;
+        counter-reset: my-awesome-counter;
+
+        li {
+            counter-increment: my-awesome-counter;
+        }
+
+        li.category-child-list::before {
+            content: counter(my-awesome-counter) ". ";
+            color: #2779aa;
+            font-weight: 500;
+        }
+
+        .category-name::before {
+            content: counter(my-awesome-counter) ". ";
+            color: #2779aa;
+            font-weight: normal;
+            font-size: 28px;
+        }
+
+        .list-parent-category::before {
+            content: counter(my-awesome-counter) ". ";
+            color: #2779aa;
+            font-weight: normal;
+            font-size: 28px;
+        }
+
+        .add-category {
+            margin-top: -20px;
+            margin-bottom: 15px;
+        }
+    }
+}

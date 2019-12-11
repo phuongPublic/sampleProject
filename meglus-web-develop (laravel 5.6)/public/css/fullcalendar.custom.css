@@ -1,0 +1,31 @@
+.fc-content-skeleton table tbody{
+    display: none;
+}
+.fc-content-skeleton table td{
+    cursor: pointer;
+    background: red;
+}
+.fc-content-skeleton table td.fc-day-top.fc-past{
+    background: #cacaca;
+    opacity: 1 !important;
+}
+.fc-content-skeleton table td.fc-day-top:hover:not(.fc-past),
+.fc-content-skeleton table td.fc-today{
+    background: #fcf8e3 !important;
+}
+.fc-content-skeleton table td.fc-today{
+    font-weight: bold;
+}
+.fc-toolbar.fc-header-toolbar{margin-bottom: 0px;}
+.fc-toolbar.fc-header-toolbar h2{font-size: 14px;line-height: 34px}
+.fc-basic-view .fc-body .fc-row{min-height: unset}
+.fc-scroller {
+    height: auto!important;
+    overflow-y: auto;
+}
+.fc-content-skeleton table td.fc-day-selected:hover:not(.fc-past),
+.fc-content-skeleton table td.fc-day-selected:not(.fc-past){
+    background: green !important;
+    color: white !important;
+    opacity: 1 !important;
+}

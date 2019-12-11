@@ -1,0 +1,79 @@
+#job_register_form .box-body {
+  margin-bottom: 40px;
+}
+
+#job_register_form .box-body div.sub-title {
+  border-bottom: 1px solid #ccc;
+}
+
+#job_register_form .application_method label p {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.job-radio-item {
+  /*border: 2px solid #857776;*/
+  padding: 0px 10px 0px 10px;
+  background: #dcdcdc;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.job-radio-item label {
+  padding-top: 10px;
+  color: #212529;
+}
+
+.job-radio-item input[type="checkbox"] {
+  width: 30px;
+  height: 30px;
+}
+
+.job-radio-item.selected {
+  /*border: 2px solid #417b99;*/
+  background: #007eff;
+  color: #fff;
+}
+
+.job-radio-item.selected label {
+  color: #fff;
+}
+
+.dropdown-apply .dropdown-toggle,
+.dropdown-apply .dropdown-toggle:hover,
+.dropdown-apply .dropdown-toggle:focus,
+.dropdown-apply .btn-outline-secondary:not(:disabled):not(.disabled):active {
+  background-color: #fff;
+  color: #000;
+  -webkit-box-shadow: unset;
+          box-shadow: unset;
+}
+
+.job_contact.row-height {
+  height: 55px;
+}
+
+.fzlg {
+  font-size: 30px;
+}
+
+.warning-job {
+  padding: 0px 8px 0px 8px;
+  margin: 0px;
+  position: absolute;
+  right: 10px;
+  background: #f0ad4e;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%
+}
+
+.icon-warning {
+  position: absolute;
+  right: 9px;
+  font-size: 21px;
+  bottom: -2px;
+  color: #fff;
+}
