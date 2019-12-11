@@ -1,0 +1,803 @@
+2017-05-09 17:15:19 Error: Fatal Error (1): Cannot use object of type App\View\AppView as array in [C:\home\AdminCustomSource\src\Controller\AdminUserSearchController.php, line 69]
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-09 17:15:19 Error: [Cake\Error\FatalErrorException] Cannot use object of type App\View\AppView as array
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Cannot use obje...', 'C:\\home\\AdminCu...', 69)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-09 17:15:25 Error: Fatal Error (1): Cannot use object of type App\View\AppView as array in [C:\home\AdminCustomSource\src\Controller\AdminUserSearchController.php, line 69]
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-09 17:15:25 Error: [Cake\Error\FatalErrorException] Cannot use object of type App\View\AppView as array
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Cannot use obje...', 'C:\\home\\AdminCu...', 69)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-09 18:42:28 Error: Fatal Error (1): Class 'App\Controller\Component\Mcrypt3DES' not found in [C:\home\AdminCustomSource\src\Controller\Component\AdminUserComponent.php, line 40]
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-09 18:42:28 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Component\Mcrypt3DES' not found
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\home\\AdminCu...', 40)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-09 18:44:54 Error: Fatal Error (1): Class 'App\Controller\Component\Mcrypt3DES' not found in [C:\home\AdminCustomSource\src\Controller\Component\AdminUserComponent.php, line 41]
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-09 18:44:54 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Component\Mcrypt3DES' not found
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\home\\AdminCu...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-09 18:45:44 Error: Fatal Error (1): Class 'App\Controller\Component\Mcrypt3DES' not found in [C:\home\AdminCustomSource\src\Controller\Component\AdminUserComponent.php, line 41]
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-09 18:45:44 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Component\Mcrypt3DES' not found
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\home\\AdminCu...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-09 18:51:16 Error: Fatal Error (1): Class 'App\Controller\Component\Mcrypt3DES' not found in [C:\home\AdminCustomSource\src\Controller\Component\AdminUserComponent.php, line 41]
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-09 18:51:16 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Component\Mcrypt3DES' not found
+Request URL: /AdminUserDetail?user_seq=17f458d2cb4ee7be892842109e891e71
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\home\\AdminCu...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-10 18:41:56 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-10 18:46:59 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-10 18:48:18 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:25:45 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:28:21 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminAdRegist
+Referer URL: http://local.admincustomsource.com/admin/ad/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:30:00 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminTopicsRegist
+Referer URL: http://local.admincustomsource.com/admin/topics/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:30:48 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminTopicsRegist
+Referer URL: http://local.admincustomsource.com/admin/topics/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:31:10 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminTopicsRegist
+Referer URL: http://local.admincustomsource.com/admin/topics/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:31:24 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminTopicsRegist
+Referer URL: http://local.admincustomsource.com/admin/topics/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:32:25 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCampaignRegist
+Referer URL: http://local.admincustomsource.com/admin/campaign/regist.html?action=regist
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-12 18:32:55 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCampaignRegist
+Referer URL: http://local.admincustomsource.com/admin/campaign/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-15 13:37:17 Error: Fatal Error (1): Class 'encrypt\Mcrypt3DES' not found in [C:\home\AdminCustomSource\src\Controller\Component\AdminUserComponent.php, line 45]
+Request URL: /AdminUserDetail?userSeq=05e80d47c94e513e95865bf7b884fc60
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-15 13:37:17 Error: [Cake\Error\FatalErrorException] Class 'encrypt\Mcrypt3DES' not found
+Request URL: /AdminUserDetail?userSeq=05e80d47c94e513e95865bf7b884fc60
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'encrypt\\...', 'C:\\home\\AdminCu...', 45)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 15:52:35 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCampaignRegist
+Referer URL: http://local.admincustomsource.com/admin/campaign/regist.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-05-24 11:11:00 Error: Fatal Error (1): Call to undefined method stdClass::errors() in [C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\ORM\Table.php, line 1481]
+Request URL: /AlbumList
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-24 11:11:01 Error: [Cake\Error\FatalErrorException] Call to undefined method stdClass::errors()
+Request URL: /AlbumList
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\home\\AdminCu...', 1481)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-24 11:14:01 Error: Fatal Error (1): Call to undefined method stdClass::errors() in [C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\ORM\Table.php, line 1481]
+Request URL: /MFolderList
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-24 11:14:01 Error: [Cake\Error\FatalErrorException] Call to undefined method stdClass::errors()
+Request URL: /MFolderList
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\home\\AdminCu...', 1481)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-24 13:45:36 Error: Fatal Error (1): Call to undefined method stdClass::errors() in [C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\ORM\Table.php, line 1481]
+Request URL: /MFolderList
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-24 13:45:37 Error: [Cake\Error\FatalErrorException] Call to undefined method stdClass::errors()
+Request URL: /MFolderList
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\home\\AdminCu...', 1481)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:35:37 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=17f458d2cb4ee7be892842109e891e72
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:35:37 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=17f458d2cb4ee7be892842109e891e72
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:38:14 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=17f458d2cb4ee7be892842109e891e72
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:38:14 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=17f458d2cb4ee7be892842109e891e72
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:38:15 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=17f458d2cb4ee7be892842109e891e72
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:38:15 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=17f458d2cb4ee7be892842109e891e72
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:38:22 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:38:22 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:38:41 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:38:41 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:38:43 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:38:43 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:38:46 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 53]
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:38:46 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 53)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 15:40:11 Error: Fatal Error (1): Call to a member function getPreviousUrl() on boolean in [C:\home\AdminCustomSource\src\Controller\AdminUserDetailController.php, line 54]
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-02 15:40:12 Error: [Cake\Error\FatalErrorException] Call to a member function getPreviousUrl() on boolean
+Request URL: /AdminUserDetail?userSeq=c3fd3c72653881c4d93263f2f7f0ddd6
+Referer URL: http://local.admincustomsource.com/admin/user/search.html?page=1
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\home\\AdminCu...', 54)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-06-02 17:58:49 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-06-02 17:58:51 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminUserSearch
+Referer URL: http://local.admincustomsource.com/admin/user/search.html
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2017-06-12 17:58:13 Error: Fatal Error (1): Class 'Configure' not found in [C:\home\AdminCustomSource\src\Template\AdminCampaignRegist\index.ctp, line 81]
+Request URL: /AdminCampaignRegist
+Referer URL: http://local.admincustomsource.com/admin/ad/update.html?adseq=3&selectYear=2017&sort=
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-06-12 17:58:13 Error: [Cake\Error\FatalErrorException] Class 'Configure' not found
+Request URL: /AdminCampaignRegist
+Referer URL: http://local.admincustomsource.com/admin/ad/update.html?adseq=3&selectYear=2017&sort=
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'Configur...', 'C:\\home\\AdminCu...', 81)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2019-02-21 10:12:14 Error: Fatal Error (1): Class 'IntlDateFormatter' not found in [C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Database\Type\DateTimeType.php, line 269]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 97
+[main] - [internal], line ??
+
+
+
+2019-02-21 10:12:14 Error: [Cake\Error\FatalErrorException] Class 'IntlDateFormatter' not found
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(97): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'IntlDate...', 'C:\\home\\AdminCu...', 269)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2019-02-21 10:12:14 Error: Fatal Error (1): Class 'IntlDateFormatter' not found in [C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Database\Type\DateTimeType.php, line 269]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 97
+[main] - [internal], line ??
+
+
+
+2019-02-21 10:12:14 Error: [Cake\Error\FatalErrorException] Class 'IntlDateFormatter' not found
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(97): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'IntlDate...', 'C:\\home\\AdminCu...', 269)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2019-02-21 10:12:16 Error: Fatal Error (1): Class 'IntlDateFormatter' not found in [C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Database\Type\DateTimeType.php, line 269]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 97
+[main] - [internal], line ??
+
+
+
+2019-02-21 10:12:16 Error: [Cake\Error\FatalErrorException] Class 'IntlDateFormatter' not found
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(97): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'IntlDate...', 'C:\\home\\AdminCu...', 269)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2019-02-21 10:27:15 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/webroot/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:27:24 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:33:10 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:44 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:45 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:46 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:46 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:46 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:46 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:46 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:46 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:47 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:48 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:48 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:48 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:48 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:49 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:34:50 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:37:45 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/address/listview.html?c=c89d9f73b7e6ba42984a8f2d5d3c1e4e
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:37:49 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/address/listview.html?c=c89d9f73b7e6ba42984a8f2d5d3c1e4e
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:37:51 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/address/listview.html?c=c89d9f73b7e6ba42984a8f2d5d3c1e4e
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:37:52 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/address/listview.html?c=c89d9f73b7e6ba42984a8f2d5d3c1e4e
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:37:53 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/address/listview.html?c=c89d9f73b7e6ba42984a8f2d5d3c1e4e
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:37:54 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/address/listview.html?c=c89d9f73b7e6ba42984a8f2d5d3c1e4e
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:39:06 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/admin
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:39:09 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/admin
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 10:46:57 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /AdminCustomSource/admin
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 17:59:30 Error: [RuntimeException] Unable to emit response; headers already sent
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+
+2019-02-21 17:59:30 Error: [RuntimeException] Unable to emit response; headers already sent
+Request URL: /favicon.ico
+Client IP: 10.104.30.19
+Stack Trace:
+#0 C:\home\AdminCustomSource\vendor\cakephp\cakephp\src\Http\Server.php(107): Zend\Diactoros\Response\SapiStreamEmitter->emit(Object(Zend\Diactoros\Response))
+#1 C:\home\AdminCustomSource\webroot\index.php(37): Cake\Http\Server->emit(Object(Zend\Diactoros\Response))
+#2 {main}
+
+

@@ -1,0 +1,256 @@
+<?php
+namespace App\Test\Fixture;
+
+use Cake\TestSuite\Fixture\TestFixture;
+
+/**
+ * MovieContentsFixture
+ *
+ */
+class MovieContentsFixture extends TestFixture
+{
+
+    /**
+     * Fields
+     *
+     * @var array
+     */
+    // @codingStandardsIgnoreStart
+    public $fields = [
+        'movie_contents_id' => ['type' => 'integer', 'length' => 10, 'unsigned' => true, 'null' => false, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'movie_folder_id' => ['type' => 'integer', 'length' => 5, 'unsigned' => true, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'user_seq' => ['type' => 'string', 'fixed' => true, 'length' => 50, 'null' => false, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null],
+        'movie_contents_name' => ['type' => 'string', 'length' => 255, 'null' => true, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null, 'fixed' => null],
+        'name' => ['type' => 'string', 'length' => 255, 'null' => true, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null, 'fixed' => null],
+        'extension' => ['type' => 'string', 'length' => 30, 'null' => false, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null, 'fixed' => null],
+        'amount' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => false, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'movie_contents_url' => ['type' => 'string', 'length' => 255, 'null' => false, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null, 'fixed' => null],
+        'movie_contents_comment' => ['type' => 'text', 'length' => null, 'null' => true, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null],
+        'up_date' => ['type' => 'date', 'length' => null, 'null' => false, 'default' => null, 'comment' => '', 'precision' => null],
+        'reg_date' => ['type' => 'date', 'length' => null, 'null' => false, 'default' => null, 'comment' => '', 'precision' => null],
+        'movie_capture_url' => ['type' => 'string', 'length' => 255, 'null' => false, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null, 'fixed' => null],
+        'reproduction_time' => ['type' => 'string', 'length' => 30, 'null' => false, 'default' => null, 'collate' => 'utf8_general_ci', 'comment' => '', 'precision' => null, 'fixed' => null],
+        'resultcode' => ['type' => 'integer', 'length' => 4, 'unsigned' => false, 'null' => false, 'default' => '0', 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'file_id' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_status' => ['type' => 'integer', 'length' => 4, 'unsigned' => false, 'null' => false, 'default' => '0', 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_flv' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_docomo_300k' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_docomo_2m_qcif' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_docomo_2m_qvga' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_docomo_10m' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_au' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_sb' => ['type' => 'integer', 'length' => 10, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'video_size' => ['type' => 'integer', 'length' => 4, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        'encode_file_id_iphone' => ['type' => 'integer', 'length' => 11, 'unsigned' => false, 'null' => true, 'default' => null, 'comment' => '', 'precision' => null, 'autoIncrement' => null],
+        '_indexes' => [
+            'idx_reg_date' => ['type' => 'index', 'columns' => ['reg_date'], 'length' => []],
+        ],
+        '_constraints' => [
+            'primary' => ['type' => 'primary', 'columns' => ['movie_contents_id', 'user_seq'], 'length' => []],
+        ],
+        '_options' => [
+            'engine' => 'InnoDB',
+            'collation' => 'utf8_general_ci'
+        ],
+    ];
+    // @codingStandardsIgnoreEnd
+
+    /**
+     * Records
+     *
+     * @var array
+     */
+    public $records = [
+        [
+            'movie_contents_id' => 1,
+            'movie_folder_id' => 1,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie1.mp4',
+            'name' => 'movie1',
+            'extension' => 'mp4',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie1 comment',
+            'up_date' => '2016-09-13',
+            'reg_date' => '2016-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 2,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+        [
+            'movie_contents_id' => 2,
+            'movie_folder_id' => 2,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie2.wmv',
+            'name' => 'movie2',
+            'extension' => 'wmv',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie2 comment',
+            'up_date' => '2016-09-13',
+            'reg_date' => '2016-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 0,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+        [
+            'movie_contents_id' => 3,
+            'movie_folder_id' => 1,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie3.mov',
+            'name' => 'video_test3video_test3video_test3video_test3video_test3video_test3video_test3',
+            'extension' => 'mov',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie3 video_test3video_test3video_test3video_test3video_test3video_test3video_test3',
+            'up_date' => '2017-09-13',
+            'reg_date' => '2017-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 0,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+        //encode request abnormal encode_status == 3
+        [
+            'movie_contents_id' => 4,
+            'movie_folder_id' => 1,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie4.avi',
+            'name' => 'movie4',
+            'extension' => 'avi',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie4 comment',
+            'up_date' => '2017-09-13',
+            'reg_date' => '2017-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 0,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+        //movie delete reservation, encode_status == 9
+        [
+            'movie_contents_id' => 5,
+            'movie_folder_id' => 1,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie5.avi',
+            'name' => 'movie5',
+            'extension' => 'avi',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie5 comment',
+            'up_date' => '2017-09-13',
+            'reg_date' => '2017-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 9,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+        [
+            'movie_contents_id' => 6,
+            'movie_folder_id' => 3,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie6 custom movie name to over 21 characters.mp4',
+            'name' => 'movie6 custom movie name to over 21 characters',
+            'extension' => 'mp4',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie5 comment',
+            'up_date' => '2017-09-13',
+            'reg_date' => '2017-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 2,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+        [
+            'movie_contents_id' => 7,
+            'movie_folder_id' => 1000,
+            'user_seq' => '385cd85a14bb90c754897fd0366ff266',
+            'movie_contents_name' => 'movie1.mp4',
+            'name' => 'movie1',
+            'extension' => 'mp4',
+            'amount' => 1,
+            'movie_contents_url' => 'Lorem ipsum dolor sit amet',
+            'movie_contents_comment' => 'movie1 comment - movie folder id is not exist',
+            'up_date' => '2016-09-13',
+            'reg_date' => '2016-09-13',
+            'movie_capture_url' => 'Lorem ipsum dolor sit amet',
+            'reproduction_time' => 'Lorem ipsum dolor sit amet',
+            'resultcode' => 1,
+            'file_id' => 1,
+            'encode_status' => 2,
+            'encode_file_id_flv' => 1,
+            'encode_file_id_docomo_300k' => 1,
+            'encode_file_id_docomo_2m_qcif' => 1,
+            'encode_file_id_docomo_2m_qvga' => 1,
+            'encode_file_id_docomo_10m' => 1,
+            'encode_file_id_au' => 1,
+            'encode_file_id_sb' => 1,
+            'video_size' => 1,
+            'encode_file_id_iphone' => 1
+        ],
+    ];
+}

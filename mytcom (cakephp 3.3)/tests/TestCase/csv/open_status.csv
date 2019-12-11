@@ -1,0 +1,3 @@
+open_id,target_id,user_seq,open_type,close_date,close_type,access_check,nickname,message,reg_date,download_count
+openidsample1,1,385cd85a14bb90c754897fd0366ff266,1,"2022-01-05 23:59:59",4,2,ニックネーム1,メッセージ1,"2016-12-07 00:00:00",1
+openidsample2,2,385cd85a14bb90c754897fd0366ff266,1,"2022-01-05 23:59:59",4,2,ニックネーム2,メッセージ2,"2016-12-07 00:00:00",2
