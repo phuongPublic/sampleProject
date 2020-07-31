@@ -6,9 +6,9 @@
 
 ### 서비스 흐름도
 * チャットボットの流れ
-<img width="30%" alt="bot-flow" src="https://user-images.githubusercontent.com/58759076/89002049-0c39d480-d337-11ea-908b-ef0de7101e4b.png">
+<img width="100%" alt="bot-flow" src="https://user-images.githubusercontent.com/58759076/89002049-0c39d480-d337-11ea-908b-ef0de7101e4b.png">
 * 샌드위치 만들기 구조   
-<img src="https://user-images.githubusercontent.com/58759076/89002719-cda51980-d338-11ea-8b47-d7f990dc801b.png" width="30%" title="training-flow" alt="flow chart 2"></img>
+<img src="https://user-images.githubusercontent.com/58759076/89002719-cda51980-d338-11ea-8b47-d7f990dc801b.png" width="100%" title="training-flow" alt="flow chart 2"></img>
 
 ## 시연영상
 * v0.1 https://youtu.be/7rXMKE97_oA
