@@ -31,7 +31,9 @@ QnA Maker が問い合わせに最もよくマッチした回答を返します�
 * [Install](https://visualstudio.microsoft.com/) Visual Studio 2019 including ASP.NET, 
 * [Install](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4) Bot Framework v4 SDK Templates for Visual Studio 
 * [Install](https://github.com/microsoft/BotFramework-Emulator) Bot Framework emulator 
+* [Create](https://azure.microsoft.com/en-us/services/cognitive-services/) QnA Maker service 
 * [Get](https://azure.microsoft.com/free/) Azure Trial Account 
+QnA Maker service
 
 ### Azureリソース
 * [azure portal](https://portal.azure.com/) 
