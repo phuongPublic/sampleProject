@@ -7,6 +7,7 @@
 ### 서비스 흐름도
 * チャットボットの流れ
 <img width="100%" alt="bot-flow" src="https://user-images.githubusercontent.com/58759076/89002049-0c39d480-d337-11ea-908b-ef0de7101e4b.png">
+
 1. 従業員がFAQボットにアクセスします。
 
 2. Azure Active Director が従業員の身元を確認します。
