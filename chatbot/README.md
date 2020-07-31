@@ -4,7 +4,7 @@
 
 ## サービスの紹介
 
-### 서비스 흐름도
+### チャットボット設計
 * チャットボットの流れ
 <img width="100%" alt="bot-flow" src="https://user-images.githubusercontent.com/58759076/89002049-0c39d480-d337-11ea-908b-ef0de7101e4b.png">
 
@@ -23,7 +23,7 @@ QnA Maker が問い合わせに最もよくマッチした回答を返します�
 6. ユーザートラフィックからのフィードバックに基づいて QnA ナレッジベースを
 管理および更新します。
 
-* 샌드위치 만들기 구조   
+* トレーニングの流れ
 <img src="https://user-images.githubusercontent.com/58759076/89002719-cda51980-d338-11ea-8b47-d7f990dc801b.png" width="100%" title="training-flow" alt="flow chart 2"></img>
 
 ## 시연영상
